@@ -197,7 +197,7 @@ const Headers = () => {
                                 <span><IoIosCall /></span>
                             </div>
                             <div className='flex justify-end flex-col gap-1'>
-                                <h2 className='text-sm font-medium text-slate-700'>+2547XXXXXXXXX</h2>
+                                <h2 className='text-sm font-medium text-slate-700'>+254798682605</h2>
                                 <span className='text-xs'>support 24/7 time</span>
                             </div>
                         </div>
@@ -262,7 +262,7 @@ const Headers = () => {
                                         <span><IoIosCall /></span>
                                     </div>
                                     <div className='flex justify-end flex-col gap-1'>
-                                        <h2 className='text-md font-medium text-slate-700'>+2547XXXXXXXXX</h2>
+                                        <h2 className='text-md font-medium text-slate-700'>+254798682605</h2>
                                         <span className='text-sm'>support 24/7 time</span>
                                     </div>
                                 </div>
