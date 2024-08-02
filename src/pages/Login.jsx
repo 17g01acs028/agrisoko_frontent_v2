@@ -71,7 +71,7 @@ const Login = () => {
                                     </div>
                                     <button className='px-8 w-full py-2 bg-purple-500 shadow-lg hover:shadow-indigo-500/30 text-white rounded-md'>Login</button>
                                 </form>
-                                <div className='flex justify-center items-center py-2'>
+                                {/* <div className='flex justify-center items-center py-2'>
                                     <div className='h-[1px] bg-slate-300 w-[95%]'></div>
                                     <span className='px-3 text-slate-600'>or</span>
                                     <div className='h-[1px] bg-slate-300 w-[95%]'></div>
@@ -83,13 +83,13 @@ const Login = () => {
                                 <button className='px-8 w-full py-2 bg-orange-500 shadow hover:shadow-orange-500/30 text-white rounded-md flex justify-center items-center gap-2 mb-3'>
                                     <span><AiOutlineGoogle /></span>
                                     <span>Login with Facebook</span>
-                                </button>
+                                </button> */}
                             </div>
                             <div className='text-center text-slate-600 pt-1'>
                                 <p>You have no account ? <Link className='text-blue-500' to='/register'>Register</Link></p>
                             </div>
                             <div className='text-center text-slate-600 pt-1'>
-                                <p> <a target='_black' className='text-blue-500' href='http://localhost:3001/register'>Register</a> seller account</p>
+                                <p> <a target='_black' className='text-blue-500' href='https://agrisoko-dashboard-v2.vercel.app/dashboard/register'>Register</a> seller account</p>
                             </div>
                         </div>
                         {/* <div className='w-full h-full py-4 pr-4'>
